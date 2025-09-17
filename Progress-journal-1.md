@@ -10,11 +10,15 @@ Identify the gap or problem my project seeks to address.
 
 Explain the relevance and potential impact of the work.
 
-Lay down an initial plan for methodology and next steps.
+Lay out an initial plan for methodology and next steps.
 
-Although this first stage was mostly conceptual, it gave me the clarity and confidence to move forward with the next phases. Solidifying the “why” behind the project has made the “how” and “what” much easier to start planning.
+Although this first stage was mostly conceptual, it gave me the clarity and confidence to move forward with the next phases. Solidifying the “why” behind the project has made the “how” and “what” much easier to start planning.                                     
 
-<embed src="docs/Concept Proposal.pdf" type="application/pdf" width="100%" height="600px" />
+
+[📄 View Concept Report (PDF)](docs/concept_report.pdf)
+ 
+
+
 
 
 
