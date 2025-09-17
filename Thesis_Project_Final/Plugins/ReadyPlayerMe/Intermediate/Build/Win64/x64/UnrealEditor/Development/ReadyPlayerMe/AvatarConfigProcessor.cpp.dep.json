@@ -1,0 +1,29 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\ue projects\\ue5.3\\bpblank_53\\plugins\\readyplayerme\\source\\readyplayerme\\private\\utils\\avatarconfigprocessor.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ue projects\\ue5.3\\bpblank_53\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "d:\\ue projects\\ue5.3\\bpblank_53\\plugins\\readyplayerme\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\readyplayerme\\definitions.readyplayerme.h",
+            "d:\\ue projects\\ue5.3\\bpblank_53\\plugins\\readyplayerme\\source\\readyplayerme\\private\\utils\\avatarconfigprocessor.h",
+            "d:\\ue projects\\ue5.3\\bpblank_53\\plugins\\readyplayerme\\source\\readyplayerme\\private\\utils\\morphtargetutils.h",
+            "d:\\ue projects\\ue5.3\\bpblank_53\\plugins\\readyplayerme\\source\\readyplayerme\\public\\readyplayermetypes.h",
+            "d:\\ue projects\\ue5.3\\bpblank_53\\plugins\\readyplayerme\\intermediate\\build\\win64\\unrealeditor\\inc\\readyplayerme\\uht\\readyplayermetypes.generated.h",
+            "d:\\ue projects\\ue5.3\\bpblank_53\\plugins\\readyplayerme\\source\\readyplayerme\\private\\utils\\plugininfo.h",
+            "d:\\software\\unrealengine\\ue_5.3\\ue_5.3\\engine\\source\\runtime\\projects\\public\\interfaces\\ipluginmanager.h",
+            "d:\\software\\unrealengine\\ue_5.3\\ue_5.3\\engine\\source\\runtime\\projects\\public\\plugindescriptor.h",
+            "d:\\software\\unrealengine\\ue_5.3\\ue_5.3\\engine\\source\\runtime\\projects\\public\\custombuildsteps.h",
+            "d:\\software\\unrealengine\\ue_5.3\\ue_5.3\\engine\\source\\runtime\\projects\\public\\localizationdescriptor.h",
+            "d:\\software\\unrealengine\\ue_5.3\\ue_5.3\\engine\\source\\runtime\\projects\\public\\moduledescriptor.h",
+            "d:\\software\\unrealengine\\ue_5.3\\ue_5.3\\engine\\source\\runtime\\projects\\public\\pluginreferencedescriptor.h",
+            "d:\\software\\unrealengine\\ue_5.3\\ue_5.3\\engine\\source\\runtime\\projects\\public\\versescope.h",
+            "d:\\ue projects\\ue5.3\\bpblank_53\\plugins\\readyplayerme\\source\\readyplayerme\\public\\readyplayermeavatarconfig.h",
+            "d:\\ue projects\\ue5.3\\bpblank_53\\plugins\\readyplayerme\\intermediate\\build\\win64\\unrealeditor\\inc\\readyplayerme\\uht\\readyplayermeavatarconfig.generated.h",
+            "d:\\software\\unrealengine\\ue_5.3\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetstringlibrary.h",
+            "d:\\software\\unrealengine\\ue_5.3\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\kismetstringlibrary.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

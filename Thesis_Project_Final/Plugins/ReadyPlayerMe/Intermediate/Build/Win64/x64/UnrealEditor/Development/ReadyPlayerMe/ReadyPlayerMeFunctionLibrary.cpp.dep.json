@@ -1,0 +1,34 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\ue projects\\ue5.3\\bpblank_53\\plugins\\readyplayerme\\source\\readyplayerme\\private\\readyplayermefunctionlibrary.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ue projects\\ue5.3\\bpblank_53\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "d:\\ue projects\\ue5.3\\bpblank_53\\plugins\\readyplayerme\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\readyplayerme\\definitions.readyplayerme.h",
+            "d:\\ue projects\\ue5.3\\bpblank_53\\plugins\\readyplayerme\\source\\readyplayerme\\public\\readyplayermefunctionlibrary.h",
+            "d:\\ue projects\\ue5.3\\bpblank_53\\plugins\\readyplayerme\\intermediate\\build\\win64\\unrealeditor\\inc\\readyplayerme\\uht\\readyplayermefunctionlibrary.generated.h",
+            "d:\\ue projects\\ue5.3\\bpblank_53\\plugins\\readyplayerme\\source\\readyplayerme\\public\\readyplayermegamesubsystem.h",
+            "d:\\ue projects\\ue5.3\\bpblank_53\\plugins\\readyplayerme\\intermediate\\build\\win64\\unrealeditor\\inc\\readyplayerme\\uht\\readyplayermegamesubsystem.generated.h",
+            "d:\\ue projects\\ue5.3\\bpblank_53\\plugins\\readyplayerme\\source\\readyplayerme\\public\\readyplayermememorycache.h",
+            "d:\\ue projects\\ue5.3\\bpblank_53\\plugins\\readyplayerme\\source\\readyplayerme\\public\\readyplayermetypes.h",
+            "d:\\ue projects\\ue5.3\\bpblank_53\\plugins\\readyplayerme\\intermediate\\build\\win64\\unrealeditor\\inc\\readyplayerme\\uht\\readyplayermetypes.generated.h",
+            "d:\\ue projects\\ue5.3\\bpblank_53\\plugins\\readyplayerme\\intermediate\\build\\win64\\unrealeditor\\inc\\readyplayerme\\uht\\readyplayermememorycache.generated.h",
+            "d:\\software\\unrealengine\\ue_5.3\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystatics.h",
+            "d:\\software\\unrealengine\\ue_5.3\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetsystemlibrary.h",
+            "d:\\software\\unrealengine\\ue_5.3\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "d:\\software\\unrealengine\\ue_5.3\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\arfilter.h",
+            "d:\\software\\unrealengine\\ue_5.3\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\kismetsystemlibrary.generated.h",
+            "d:\\software\\unrealengine\\ue_5.3\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\sound\\dialoguetypes.h",
+            "d:\\software\\unrealengine\\ue_5.3\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\dialoguetypes.generated.h",
+            "d:\\software\\unrealengine\\ue_5.3\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystaticstypes.h",
+            "d:\\software\\unrealengine\\ue_5.3\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gameplaystaticstypes.generated.h",
+            "d:\\software\\unrealengine\\ue_5.3\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gameplaystatics.generated.h",
+            "d:\\ue projects\\ue5.3\\bpblank_53\\plugins\\readyplayerme\\source\\readyplayerme\\private\\storage\\avatarmanifest.h",
+            "d:\\ue projects\\ue5.3\\bpblank_53\\plugins\\readyplayerme\\source\\readyplayerme\\private\\storage\\avatarstorage.h",
+            "d:\\ue projects\\ue5.3\\bpblank_53\\plugins\\readyplayerme\\source\\readyplayerme\\private\\utils\\avatarurlconvertor.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

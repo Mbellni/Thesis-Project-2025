@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\perforce\\anmol_convaiplugins\\plugins\\readyplayerme\\intermediate\\build\\win64\\unrealeditor\\inc\\readyplayermeeditor\\readyplayermeeditor.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\perforce\\anmol_convaiplugins\\intermediate\\build\\win64\\myproject50editor\\debuggame\\unrealed\\sharedpch.unrealed.nonoptimized.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\perforce\\anmol_convaiplugins\\plugins\\readyplayerme\\intermediate\\build\\win64\\unrealeditor\\debuggame\\readyplayermeeditor\\definitions.readyplayermeeditor.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

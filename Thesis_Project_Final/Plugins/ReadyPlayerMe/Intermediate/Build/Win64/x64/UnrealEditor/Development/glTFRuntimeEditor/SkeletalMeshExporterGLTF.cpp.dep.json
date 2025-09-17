@@ -1,0 +1,40 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\ue projects\\ue5.3\\bpblank_53\\plugins\\readyplayerme\\source\\thirdparty\\gltfruntimeeditor\\private\\skeletalmeshexportergltf.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ue projects\\ue5.3\\bpblank_53\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "Includes": [
+            "d:\\ue projects\\ue5.3\\bpblank_53\\plugins\\readyplayerme\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gltfruntimeeditor\\definitions.gltfruntimeeditor.h",
+            "d:\\ue projects\\ue5.3\\bpblank_53\\plugins\\readyplayerme\\source\\thirdparty\\gltfruntimeeditor\\public\\skeletalmeshexportergltf.h",
+            "d:\\ue projects\\ue5.3\\bpblank_53\\plugins\\readyplayerme\\source\\thirdparty\\gltfruntimeeditor\\public\\skeletonexportergltf.h",
+            "d:\\software\\unrealengine\\ue_5.3\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\exporters\\exporter.h",
+            "d:\\software\\unrealengine\\ue_5.3\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\exporter.generated.h",
+            "d:\\ue projects\\ue5.3\\bpblank_53\\plugins\\readyplayerme\\intermediate\\build\\win64\\unrealeditor\\inc\\gltfruntimeeditor\\uht\\skeletonexportergltf.generated.h",
+            "d:\\ue projects\\ue5.3\\bpblank_53\\plugins\\readyplayerme\\intermediate\\build\\win64\\unrealeditor\\inc\\gltfruntimeeditor\\uht\\skeletalmeshexportergltf.generated.h",
+            "d:\\software\\unrealengine\\ue_5.3\\ue_5.3\\engine\\source\\runtime\\engine\\public\\rendering\\skeletalmeshrenderdata.h",
+            "d:\\software\\unrealengine\\ue_5.3\\ue_5.3\\engine\\source\\runtime\\engine\\public\\rendering\\skeletalmeshlodrenderdata.h",
+            "d:\\software\\unrealengine\\ue_5.3\\ue_5.3\\engine\\source\\runtime\\engine\\public\\rendering\\multisizeindexcontainer.h",
+            "d:\\software\\unrealengine\\ue_5.3\\ue_5.3\\engine\\source\\runtime\\engine\\public\\rendering\\skeletalmeshvertexbuffer.h",
+            "d:\\software\\unrealengine\\ue_5.3\\ue_5.3\\engine\\source\\runtime\\engine\\public\\rendering\\skinweightvertexbuffer.h",
+            "d:\\software\\unrealengine\\ue_5.3\\ue_5.3\\engine\\source\\runtime\\engine\\public\\skeletalmeshtypes.h",
+            "d:\\software\\unrealengine\\ue_5.3\\ue_5.3\\engine\\source\\runtime\\engine\\public\\componentreregistercontext.h",
+            "d:\\software\\unrealengine\\ue_5.3\\ue_5.3\\engine\\source\\runtime\\engine\\public\\skeletalmeshlegacycustomversions.h",
+            "d:\\software\\unrealengine\\ue_5.3\\ue_5.3\\engine\\source\\runtime\\engine\\public\\gpuskinvertexfactory.h",
+            "d:\\software\\unrealengine\\ue_5.3\\ue_5.3\\engine\\source\\runtime\\engine\\public\\resourcepool.h",
+            "d:\\software\\unrealengine\\ue_5.3\\ue_5.3\\engine\\source\\runtime\\rendercore\\public\\tickableobjectrenderthread.h",
+            "d:\\software\\unrealengine\\ue_5.3\\ue_5.3\\engine\\source\\runtime\\engine\\public\\matrix3x4.h",
+            "d:\\software\\unrealengine\\ue_5.3\\ue_5.3\\engine\\source\\runtime\\core\\public\\uobject\\animobjectversion.h",
+            "d:\\software\\unrealengine\\ue_5.3\\ue_5.3\\engine\\source\\runtime\\engine\\public\\rendering\\skeletalmeshduplicatedverticesbuffer.h",
+            "d:\\software\\unrealengine\\ue_5.3\\ue_5.3\\engine\\source\\runtime\\engine\\public\\rendering\\skeletalmeshvertexclothbuffer.h",
+            "d:\\software\\unrealengine\\ue_5.3\\ue_5.3\\engine\\source\\runtime\\engine\\public\\rendering\\morphtargetvertexinfobuffers.h",
+            "d:\\software\\unrealengine\\ue_5.3\\ue_5.3\\engine\\source\\runtime\\engine\\public\\animation\\skeletalmeshvertexattribute.h",
+            "d:\\software\\unrealengine\\ue_5.3\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\skeletalmeshvertexattribute.generated.h",
+            "d:\\software\\unrealengine\\ue_5.3\\ue_5.3\\engine\\source\\runtime\\engine\\public\\animation\\skinweightprofile.h",
+            "d:\\software\\unrealengine\\ue_5.3\\ue_5.3\\engine\\source\\runtime\\rhi\\public\\rhigpureadback.h",
+            "d:\\software\\unrealengine\\ue_5.3\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\skinweightprofile.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

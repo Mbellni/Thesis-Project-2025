@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\perforce\\anmol_convaiplugins\\plugins\\readyplayerme\\intermediate\\build\\win64\\unrealgame\\inc\\gltfruntime\\gltfruntimesoundwave.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\perforce\\anmol_convaiplugins\\intermediate\\build\\win64\\myproject50\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\perforce\\anmol_convaiplugins\\plugins\\readyplayerme\\intermediate\\build\\win64\\unrealgame\\development\\gltfruntime\\definitions.gltfruntime.h",
+            "d:\\perforce\\anmol_convaiplugins\\plugins\\readyplayerme\\source\\thirdparty\\gltfruntime\\public\\gltfruntimesoundwave.h",
+            "d:\\perforce\\anmol_convaiplugins\\plugins\\readyplayerme\\intermediate\\build\\win64\\unrealgame\\inc\\gltfruntime\\gltfruntimesoundwave.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

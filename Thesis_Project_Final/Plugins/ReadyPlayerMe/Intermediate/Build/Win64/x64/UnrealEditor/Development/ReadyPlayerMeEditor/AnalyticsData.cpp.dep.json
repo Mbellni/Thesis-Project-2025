@@ -1,0 +1,38 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\ue projects\\ue5.3\\bpblank_53\\plugins\\readyplayerme\\source\\readyplayermeeditor\\private\\analytics\\analyticsdata.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ue projects\\ue5.3\\bpblank_53\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "Includes": [
+            "d:\\ue projects\\ue5.3\\bpblank_53\\plugins\\readyplayerme\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\readyplayermeeditor\\definitions.readyplayermeeditor.h",
+            "d:\\ue projects\\ue5.3\\bpblank_53\\plugins\\readyplayerme\\source\\readyplayermeeditor\\private\\analytics\\analyticsdata.h",
+            "d:\\ue projects\\ue5.3\\bpblank_53\\plugins\\readyplayerme\\source\\readyplayerme\\public\\readyplayermesettings.h",
+            "d:\\software\\unrealengine\\ue_5.3\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "d:\\software\\unrealengine\\ue_5.3\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "d:\\software\\unrealengine\\ue_5.3\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\serialization\\testundeclaredscriptstructobjectreferences.h",
+            "d:\\software\\unrealengine\\ue_5.3\\ue_5.3\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "d:\\software\\unrealengine\\ue_5.3\\ue_5.3\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "d:\\software\\unrealengine\\ue_5.3\\ue_5.3\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "d:\\ue projects\\ue5.3\\bpblank_53\\plugins\\readyplayerme\\intermediate\\build\\win64\\unrealeditor\\inc\\readyplayerme\\uht\\readyplayermesettings.generated.h",
+            "d:\\ue projects\\ue5.3\\bpblank_53\\plugins\\readyplayerme\\source\\readyplayerme\\private\\utils\\plugininfo.h",
+            "d:\\software\\unrealengine\\ue_5.3\\ue_5.3\\engine\\source\\runtime\\projects\\public\\interfaces\\ipluginmanager.h",
+            "d:\\software\\unrealengine\\ue_5.3\\ue_5.3\\engine\\source\\runtime\\projects\\public\\plugindescriptor.h",
+            "d:\\software\\unrealengine\\ue_5.3\\ue_5.3\\engine\\source\\runtime\\projects\\public\\custombuildsteps.h",
+            "d:\\software\\unrealengine\\ue_5.3\\ue_5.3\\engine\\source\\runtime\\projects\\public\\localizationdescriptor.h",
+            "d:\\software\\unrealengine\\ue_5.3\\ue_5.3\\engine\\source\\runtime\\projects\\public\\moduledescriptor.h",
+            "d:\\software\\unrealengine\\ue_5.3\\ue_5.3\\engine\\source\\runtime\\projects\\public\\pluginreferencedescriptor.h",
+            "d:\\software\\unrealengine\\ue_5.3\\ue_5.3\\engine\\source\\runtime\\projects\\public\\versescope.h",
+            "d:\\software\\unrealengine\\ue_5.3\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystatics.h",
+            "d:\\software\\unrealengine\\ue_5.3\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetsystemlibrary.h",
+            "d:\\software\\unrealengine\\ue_5.3\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\kismetsystemlibrary.generated.h",
+            "d:\\software\\unrealengine\\ue_5.3\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\sound\\dialoguetypes.h",
+            "d:\\software\\unrealengine\\ue_5.3\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\dialoguetypes.generated.h",
+            "d:\\software\\unrealengine\\ue_5.3\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystaticstypes.h",
+            "d:\\software\\unrealengine\\ue_5.3\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gameplaystaticstypes.generated.h",
+            "d:\\software\\unrealengine\\ue_5.3\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gameplaystatics.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

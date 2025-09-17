@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\perforce\\anmol_convaiplugins\\plugins\\readyplayerme\\intermediate\\build\\win64\\unrealeditor\\inc\\gltfruntimeeditor\\skeletalmeshexportergltf.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\perforce\\anmol_convaiplugins\\intermediate\\build\\win64\\myproject50editor\\development\\unrealed\\sharedpch.unrealed.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\perforce\\anmol_convaiplugins\\plugins\\readyplayerme\\intermediate\\build\\win64\\unrealeditor\\development\\gltfruntimeeditor\\definitions.gltfruntimeeditor.h",
+            "d:\\perforce\\anmol_convaiplugins\\plugins\\readyplayerme\\source\\thirdparty\\gltfruntimeeditor\\public\\skeletalmeshexportergltf.h",
+            "d:\\perforce\\anmol_convaiplugins\\plugins\\readyplayerme\\source\\thirdparty\\gltfruntimeeditor\\public\\skeletonexportergltf.h",
+            "d:\\software\\unrealengine\\ue_5.0.3\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\exporters\\exporter.h",
+            "d:\\software\\unrealengine\\ue_5.0.3\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\exporter.generated.h",
+            "d:\\software\\unrealengine\\ue_5.0.3\\ue_5.0\\engine\\source\\runtime\\json\\public\\dom\\jsonobject.h",
+            "d:\\software\\unrealengine\\ue_5.0.3\\ue_5.0\\engine\\source\\runtime\\json\\public\\jsonglobals.h",
+            "d:\\software\\unrealengine\\ue_5.0.3\\ue_5.0\\engine\\source\\runtime\\json\\public\\serialization\\jsontypes.h",
+            "d:\\software\\unrealengine\\ue_5.0.3\\ue_5.0\\engine\\source\\runtime\\json\\public\\dom\\jsonvalue.h",
+            "d:\\perforce\\anmol_convaiplugins\\plugins\\readyplayerme\\intermediate\\build\\win64\\unrealeditor\\inc\\gltfruntimeeditor\\skeletonexportergltf.generated.h",
+            "d:\\perforce\\anmol_convaiplugins\\plugins\\readyplayerme\\intermediate\\build\\win64\\unrealeditor\\inc\\gltfruntimeeditor\\skeletalmeshexportergltf.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

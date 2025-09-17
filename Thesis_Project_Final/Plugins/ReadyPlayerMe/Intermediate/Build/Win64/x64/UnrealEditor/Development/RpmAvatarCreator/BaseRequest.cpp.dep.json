@@ -1,0 +1,28 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\ue projects\\ue5.3\\bpblank_53\\plugins\\readyplayerme\\source\\rpmavatarcreator\\private\\requests\\baserequest.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ue projects\\ue5.3\\bpblank_53\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "d:\\ue projects\\ue5.3\\bpblank_53\\plugins\\readyplayerme\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\rpmavatarcreator\\definitions.rpmavatarcreator.h",
+            "d:\\ue projects\\ue5.3\\bpblank_53\\plugins\\readyplayerme\\source\\rpmavatarcreator\\private\\requests\\baserequest.h",
+            "d:\\software\\unrealengine\\ue_5.3\\ue_5.3\\engine\\source\\runtime\\online\\http\\public\\interfaces\\ihttprequest.h",
+            "d:\\software\\unrealengine\\ue_5.3\\ue_5.3\\engine\\source\\runtime\\online\\http\\public\\interfaces\\ihttpbase.h",
+            "d:\\ue projects\\ue5.3\\bpblank_53\\plugins\\readyplayerme\\source\\rpmavatarcreator\\private\\requests\\ibaserequest.h",
+            "d:\\software\\unrealengine\\ue_5.3\\ue_5.3\\engine\\source\\runtime\\online\\http\\public\\httpmodule.h",
+            "d:\\ue projects\\ue5.3\\bpblank_53\\plugins\\readyplayerme\\source\\readyplayerme\\public\\readyplayermesettings.h",
+            "d:\\software\\unrealengine\\ue_5.3\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "d:\\software\\unrealengine\\ue_5.3\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "d:\\software\\unrealengine\\ue_5.3\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\serialization\\testundeclaredscriptstructobjectreferences.h",
+            "d:\\software\\unrealengine\\ue_5.3\\ue_5.3\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "d:\\software\\unrealengine\\ue_5.3\\ue_5.3\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "d:\\software\\unrealengine\\ue_5.3\\ue_5.3\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "d:\\software\\unrealengine\\ue_5.3\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\arfilter.h",
+            "d:\\ue projects\\ue5.3\\bpblank_53\\plugins\\readyplayerme\\intermediate\\build\\win64\\unrealeditor\\inc\\readyplayerme\\uht\\readyplayermesettings.generated.h",
+            "d:\\software\\unrealengine\\ue_5.3\\ue_5.3\\engine\\source\\runtime\\online\\http\\public\\interfaces\\ihttpresponse.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

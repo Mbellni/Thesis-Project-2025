@@ -1,0 +1,11 @@
+{
+	"BuildId": "27405482",
+	"Modules": 
+	{
+		"ReadyPlayerMe": "UnrealEditor-ReadyPlayerMe.dll",
+		"ReadyPlayerMeEditor": "UnrealEditor-ReadyPlayerMeEditor.dll",
+		"RpmAvatarCreator": "UnrealEditor-RpmAvatarCreator.dll",
+		"glTFRuntime": "UnrealEditor-glTFRuntime.dll",
+		"glTFRuntimeEditor": "UnrealEditor-glTFRuntimeEditor.dll"
+	}
+}

@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\perforce\\anmol_convaiplugins\\plugins\\readyplayerme\\source\\rpmavatarcreator\\private\\extractors\\userdataextractor.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\perforce\\anmol_convaiplugins\\intermediate\\build\\win64\\myproject50editor\\debuggame\\engine\\sharedpch.engine.nonoptimized.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\perforce\\anmol_convaiplugins\\plugins\\readyplayerme\\intermediate\\build\\win64\\unrealeditor\\debuggame\\rpmavatarcreator\\definitions.rpmavatarcreator.h",
+            "d:\\perforce\\anmol_convaiplugins\\plugins\\readyplayerme\\source\\rpmavatarcreator\\private\\extractors\\userdataextractor.h",
+            "d:\\perforce\\anmol_convaiplugins\\plugins\\readyplayerme\\source\\rpmavatarcreator\\public\\rpmavatarcreatortypes.h",
+            "d:\\perforce\\anmol_convaiplugins\\plugins\\readyplayerme\\source\\readyplayerme\\public\\readyplayermetypes.h",
+            "d:\\perforce\\anmol_convaiplugins\\plugins\\readyplayerme\\intermediate\\build\\win64\\unrealeditor\\inc\\readyplayerme\\readyplayermetypes.generated.h",
+            "d:\\perforce\\anmol_convaiplugins\\plugins\\readyplayerme\\intermediate\\build\\win64\\unrealeditor\\inc\\rpmavatarcreator\\rpmavatarcreatortypes.generated.h",
+            "d:\\perforce\\anmol_convaiplugins\\plugins\\readyplayerme\\source\\rpmavatarcreator\\private\\extractors\\datajsonutils.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\perforce\\anmol_convaiplugins\\plugins\\readyplayerme\\intermediate\\build\\win64\\unrealeditor\\inc\\gltfruntime\\gltfruntimesoundwave.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\perforce\\anmol_convaiplugins\\intermediate\\build\\win64\\myproject50editor\\debuggame\\unrealed\\sharedpch.unrealed.nonoptimized.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\perforce\\anmol_convaiplugins\\plugins\\readyplayerme\\intermediate\\build\\win64\\unrealeditor\\debuggame\\gltfruntime\\definitions.gltfruntime.h",
+            "d:\\perforce\\anmol_convaiplugins\\plugins\\readyplayerme\\source\\thirdparty\\gltfruntime\\public\\gltfruntimesoundwave.h",
+            "d:\\software\\unrealengine\\ue_5.0.3\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\sound\\soundwave.h",
+            "d:\\software\\unrealengine\\ue_5.0.3\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\sound\\soundbase.h",
+            "d:\\software\\unrealengine\\ue_5.0.3\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\sound\\audiosettings.h",
+            "d:\\software\\unrealengine\\ue_5.0.3\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\audiosettings.generated.h",
+            "d:\\software\\unrealengine\\ue_5.0.3\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\sound\\soundclass.h",
+            "d:\\software\\unrealengine\\ue_5.0.3\\ue_5.0\\engine\\source\\runtime\\engine\\public\\audiodynamicparameter.h",
+            "d:\\software\\unrealengine\\ue_5.0.3\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\sound\\soundmodulationdestination.h",
+            "d:\\software\\unrealengine\\ue_5.0.3\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\soundmodulationdestination.generated.h",
+            "d:\\software\\unrealengine\\ue_5.0.3\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\sound\\soundwaveloadingbehavior.h",
+            "d:\\software\\unrealengine\\ue_5.0.3\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\soundclass.generated.h",
+            "d:\\software\\unrealengine\\ue_5.0.3\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\sound\\soundconcurrency.h",
+            "d:\\software\\unrealengine\\ue_5.0.3\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\soundconcurrency.generated.h",
+            "d:\\software\\unrealengine\\ue_5.0.3\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\sound\\soundgenerator.h",
+            "d:\\software\\unrealengine\\ue_5.0.3\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\soundbase.generated.h",
+            "d:\\software\\unrealengine\\ue_5.0.3\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\sound\\soundgroups.h",
+            "d:\\software\\unrealengine\\ue_5.0.3\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\soundgroups.generated.h",
+            "d:\\software\\unrealengine\\ue_5.0.3\\ue_5.0\\engine\\source\\runtime\\audioplatformconfiguration\\public\\audiocompressionsettings.h",
+            "d:\\software\\unrealengine\\ue_5.0.3\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\audioplatformconfiguration\\audiocompressionsettings.generated.h",
+            "d:\\software\\unrealengine\\ue_5.0.3\\ue_5.0\\engine\\source\\runtime\\engine\\public\\contentstreaming.h",
+            "d:\\software\\unrealengine\\ue_5.0.3\\ue_5.0\\engine\\source\\runtime\\engine\\public\\canvastypes.h",
+            "d:\\software\\unrealengine\\ue_5.0.3\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\canvastypes.generated.h",
+            "d:\\software\\unrealengine\\ue_5.0.3\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\soundwave.generated.h",
+            "d:\\perforce\\anmol_convaiplugins\\plugins\\readyplayerme\\intermediate\\build\\win64\\unrealeditor\\inc\\gltfruntime\\gltfruntimesoundwave.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

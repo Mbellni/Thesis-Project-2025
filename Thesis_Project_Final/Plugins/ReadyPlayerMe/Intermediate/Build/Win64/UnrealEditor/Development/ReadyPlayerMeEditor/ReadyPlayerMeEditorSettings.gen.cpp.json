@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\perforce\\anmol_convaiplugins\\plugins\\readyplayerme\\intermediate\\build\\win64\\unrealeditor\\inc\\readyplayermeeditor\\readyplayermeeditorsettings.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\perforce\\anmol_convaiplugins\\intermediate\\build\\win64\\myproject50editor\\development\\unrealed\\sharedpch.unrealed.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\perforce\\anmol_convaiplugins\\plugins\\readyplayerme\\intermediate\\build\\win64\\unrealeditor\\development\\readyplayermeeditor\\definitions.readyplayermeeditor.h",
+            "d:\\perforce\\anmol_convaiplugins\\plugins\\readyplayerme\\source\\readyplayermeeditor\\public\\readyplayermeeditorsettings.h",
+            "d:\\perforce\\anmol_convaiplugins\\plugins\\readyplayerme\\intermediate\\build\\win64\\unrealeditor\\inc\\readyplayermeeditor\\readyplayermeeditorsettings.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

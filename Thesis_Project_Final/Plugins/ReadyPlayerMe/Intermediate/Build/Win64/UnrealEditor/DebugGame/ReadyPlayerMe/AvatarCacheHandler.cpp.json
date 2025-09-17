@@ -1,0 +1,27 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\perforce\\anmol_convaiplugins\\plugins\\readyplayerme\\source\\readyplayerme\\private\\storage\\avatarcachehandler.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\perforce\\anmol_convaiplugins\\intermediate\\build\\win64\\myproject50editor\\debuggame\\engine\\sharedpch.engine.nonoptimized.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\perforce\\anmol_convaiplugins\\plugins\\readyplayerme\\intermediate\\build\\win64\\unrealeditor\\debuggame\\readyplayerme\\definitions.readyplayerme.h",
+            "d:\\perforce\\anmol_convaiplugins\\plugins\\readyplayerme\\source\\readyplayerme\\private\\storage\\avatarcachehandler.h",
+            "d:\\perforce\\anmol_convaiplugins\\plugins\\readyplayerme\\source\\readyplayerme\\public\\readyplayermesettings.h",
+            "d:\\software\\unrealengine\\ue_5.0.3\\ue_5.0\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "d:\\software\\unrealengine\\ue_5.0.3\\ue_5.0\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "d:\\software\\unrealengine\\ue_5.0.3\\ue_5.0\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "d:\\software\\unrealengine\\ue_5.0.3\\ue_5.0\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "d:\\software\\unrealengine\\ue_5.0.3\\ue_5.0\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "d:\\software\\unrealengine\\ue_5.0.3\\ue_5.0\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\arfilter.h",
+            "d:\\perforce\\anmol_convaiplugins\\plugins\\readyplayerme\\intermediate\\build\\win64\\unrealeditor\\inc\\readyplayerme\\readyplayermesettings.generated.h",
+            "d:\\perforce\\anmol_convaiplugins\\plugins\\readyplayerme\\source\\readyplayerme\\public\\readyplayermetypes.h",
+            "d:\\perforce\\anmol_convaiplugins\\plugins\\readyplayerme\\intermediate\\build\\win64\\unrealeditor\\inc\\readyplayerme\\readyplayermetypes.generated.h",
+            "d:\\perforce\\anmol_convaiplugins\\plugins\\readyplayerme\\source\\readyplayerme\\private\\storage\\avatarstorage.h",
+            "d:\\perforce\\anmol_convaiplugins\\plugins\\readyplayerme\\source\\readyplayerme\\private\\storage\\avatarmanifest.h",
+            "d:\\perforce\\anmol_convaiplugins\\plugins\\readyplayerme\\source\\readyplayerme\\private\\utils\\metadataextractor.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
