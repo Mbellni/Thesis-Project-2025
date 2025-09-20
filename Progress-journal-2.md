@@ -15,8 +15,8 @@ I started by picking a random avatar that I could use for testing.
 Afterwards, I arranged a series of prompt descriptions that linked my character with the research proposal, by giving it a primary goal: to ask the user about a question (I chose firstly "right-handed people breathe more oxygen") and no matter if they say true or false, the AI must try to convince the user of the opposite response. I also added further prompts that defined the character's speaking style and some speech samples so as to go more in-depth and achieve my vision.
 
 <p align="center">
-  <img src="docs/Stuart_Prompt1_srct.png" alt="Week 1 Concept Sketch" width="500"/>
-  <img src="docs/Stuart_Prompt2_srct.png" alt="Week 1 Concept Sketch" width="500"/>
+  <img src="docs/Stuart_Prompt1_srct.png" width="500"/>
+  <img src="docs/Stuart_Prompt2_srct.png" width="500"/>
 </p>
 
 Fun fact: It could be considered "cheating", but I thought it would be pretty hilarious and conceptually interesting if the prompts for the AI were also created by AI, and give this full circle sort of ironic feel to it. I could have written the prompts, and it would have been fairly easy, but I was too tempted to add this easter egg within my project. So that is exactly what I did. Despite some alterations I had to make, the AI was prompted by another AI. That is pretty funny...
@@ -30,7 +30,18 @@ Here is the first test I did with the AI avatar, through the Convai Call feature
 The only issue that is apparent here is that the character would cite fake studies to convince the user. Unfortunately, the vaatr would always say they were fictional when I needed it to lie for the sake of the experiment. This was probably done by Convai to avoid the spread of fake information, and it makes absolute sense. But I was able to prompt my way out of it after a few tries. It didn't work in the beginning, though, and I had to play around with the words until it finally avoided saying "fictional" or "fake" before study.
 
 
-- French Version creation (relevant for testing in France)
+## French Version Creation (relevant for testing in France)
+
+Since I am creating and testing my project in France, I decided to adapt my project to the context that I am in and make the most out of it. As a result, I created a French version of the character prompts by translating them and adding French as the target language. This also involved creating a French verion of my Google questionnaires so that I could test the experiment subjects accordingly and without any information lost in translation or misunderstanding.
+
+This allows my research and project to show off the capabilities of my project through a diverse background, not only in age and personality, but also in a multicultural perspective, making it more relevant.
+
+<p align="center">
+  <img src="docs/French_translation_scrct" width="500"/>
+</p>
+
+
+
 - Unreal Integration First steps = screenshots: just simple integration and testing in Unreal (main desired software) - link to YouTube tutorial - version change from 5.6.1 to 5.3 + VR testing (problem with avatar not matching. Change to methuman
 - Metahuman Integration: screenshots + Tutorial
 - Issue with retargetting animation in 5.3 and change to 5.6.1 again (explain retargeting option added after 5.4) screenshots of f***** up character retargeting on Unreal Engine 5.3
