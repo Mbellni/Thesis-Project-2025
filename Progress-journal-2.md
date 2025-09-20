@@ -37,9 +37,20 @@ Since I am creating and testing my project in France, I decided to adapt my proj
 This allows my research and project to show off the capabilities of my project through a diverse background, not only in age and personality, but also in a multicultural perspective, making it more relevant.
 
 <p align="center">
-  <img src="docs/French_translation_scrct" width="500"/>
+  <img src="docs/French_translation_scrct.png" width="500"/>
 </p>
 
+I still intend to test people of other nationalities and backgrounds; otherwise, this richness in my research won't apply as much. I may add Portuguese language support as well for when I go back home and test it.
+
+
+## Unreal Integration
+### First Steps - Plug-in Integration and Issues
+
+### Metahuman Integration 
+
+### Metahuman Animation and Issues
+
+### Scene Creation and Asset Issues
 
 
 - Unreal Integration First steps = screenshots: just simple integration and testing in Unreal (main desired software) - link to YouTube tutorial - version change from 5.6.1 to 5.3 + VR testing (problem with avatar not matching. Change to methuman
