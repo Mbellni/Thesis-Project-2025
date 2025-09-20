@@ -13,7 +13,7 @@ I started by picking a random avatar that I could use for testing.
 - Description prompt + screenshots
 - YouTube video sample for testing
 - French Version creation (relevant for testing in France)
-- Unreal Integration First steps = screenshots: just simple integration and testing in Unreal (main desired software) - link to YouTube tutorial - version change from 5.6.1 to 5.3
+- Unreal Integration First steps = screenshots: just simple integration and testing in Unreal (main desired software) - link to YouTube tutorial - version change from 5.6.1 to 5.3 + VR testing (problem with avatar not matching. Change to methuman
 - Metahuman Integration: screenshots + Tutorial
 - Issue with retargetting animation in 5.3 and change to 5.6.1 again (explain retargeting option added after 5.4) screenshots of f***** up character retargeting on unreal engine 5.3
 - successful retargeting in 5.6 and screenshots
