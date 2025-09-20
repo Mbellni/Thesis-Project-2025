@@ -1,4 +1,4 @@
-# Weekly Progress Journal (8th to 12th September)
+# Weekly Progress Journal (8th to 14th September)
 
 This first week was focused on grounding my ideas and giving my project a solid foundation. I spent time brainstorming, refining, and ensuring that all the key details were aligned before moving forward. To begin, I created a written report that outlined the motivations behind my project, why it matters, and the broader research context within it.
 
@@ -9,7 +9,7 @@ Please refer to the link below to get a better understanding of my project:
 
 - [📄 View Concept Report (PDF)](docs/concept_proposal.pdf)
 
-I also created a Figma page where I wrote down some very broad initial remarks and suggestions. However, I will mostly be using it for designing the scene and getting a nice mood board down before designing the space where the interaction will take place.
+I also created a Figma page where I wrote down some extensive initial remarks and suggestions. However, I will mostly be using it for designing the scene and getting a nice mood board down before designing the space where the interaction will take place.
 
 
 - [Figma Board](https://www.figma.com/file/X7FC46d2gHWVEdH6EWzmwG?node-id=0-1&p=f&t=lgs7vwo272g2pfJP-0&type=whiteboard)
