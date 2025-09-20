@@ -21,12 +21,13 @@ Afterwards, I arranged a series of prompt descriptions that linked my character 
 
 Fun fact: It could be considered "cheating", but I thought it would be pretty hilarious and conceptually interesting if the prompts for the AI were also created by AI, and give this full circle sort of ironic feel to it. I could have written the prompts, and it would have been fairly easy, but I was too tempted to add this easter egg within my project. So that is exactly what I did. Despite some alterations I had to make, the AI was prompted by another AI. That is pretty funny...
 
+Here is the first test I did with the AI avatar, through the Convai Call feature on their page. This allowed me to understand of accuarte the character was going to be in relation to the prompts previously mentioned. Honestly, I was a little bit astonished by how well this worked. It is a pretty remarkable platform.
+
+[![Watch on YouTube](https://img.youtube.com/vi/wljIaCmqhEE/0.jpg)](https://youtu.be/wljIaCmqhEE)
+
+[![▶️ Click to Watch](https://img.shields.io/badge/Play-Video-red?logo=youtube&style=for-the-badge)](https://youtu.be/wljIaCmqhEE)
 
 
-
-
-
-- YouTube video sample for testing
 - French Version creation (relevant for testing in France)
 - Unreal Integration First steps = screenshots: just simple integration and testing in Unreal (main desired software) - link to YouTube tutorial - version change from 5.6.1 to 5.3 + VR testing (problem with avatar not matching. Change to methuman
 - Metahuman Integration: screenshots + Tutorial
