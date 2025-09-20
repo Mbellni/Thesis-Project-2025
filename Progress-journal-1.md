@@ -18,14 +18,17 @@ I also created a Figma page where I wrote down some extensive initial remarks an
   <img src="docs/figma_board1.jpg" alt="Week 1 Concept Sketch" width="800"/>
 </p>
 
-
+- [📄 View Concept Report (PDF)](docs/research_proposal.pdf)
 
  
 Furthermore, I had a meeting with my supervisor, which helped me refine and examine my ideas through fresher, more experienced eyes, as well as ensure I began thinking of this project within its research requirements. As a result, this led me to the second part of this week, where I worked on my research methodology report as well as developed an initial Google questionnaire that will ensure my data collection process is clear and smooth.
 
+UPDATE:
+I got feedback from my meeting with my supervisor, and there are a few points I should change regarding the questionnaire. According to James, I should:
 
+- Consider doing a more in-depth interview with around 3-5 participants where you ask them detailed questions and get longer responses to analyse. More than that may be tricky to process, and it really is based around how deeply I want to explore the individual user experience, compared to if I want to get a broad understanding of public opinion. (Honestly, I prefer having more quantitative data; however, it would be interesting to get some qualitative data in the mix).
+- The 1-10 scale is not the standard and can actually make the data harder to read and also confuse the participant. I should use the 1-5 Likert scale system: https://www.qualtrics.com/en-gb/experience-management/research/likert-scales/
 
-- [📄 View Concept Report (PDF)](docs/research_proposal.pdf)
 
 
 ## Thesis Questionnaires  
