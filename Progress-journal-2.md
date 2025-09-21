@@ -62,4 +62,5 @@ I still intend to test people of other nationalities and backgrounds; otherwise,
 - Scene creation (search for good 3d assets): software screenshots
 - Desired asset issue (optimisation for 4.2.7 and adaptation into 5.6.1 solution - screenshots
 - Issue 2: lighting issues in 5.6.1 adaptation + solution
+- Changes to questionnaire and claim report
 
