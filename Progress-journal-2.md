@@ -52,6 +52,8 @@ To achieve the first successful Unreal integration, I followed a YouTube tutoria
 
 This first step involved creating a quick VR-supported experinece that used my Convai avatar (the one I chose and that you can watch on the first video) as an adapted Convai Unreal asset. The process was quite simple and worked overall well. Unfortunately, there was an issue that arose, visible in the following video.
 
+Initially, I started this project on Unreal's latest update (aka 5.6.1); however, due to Convai's plugins for the VR character integration version support, I had to downgrade to 5.3.
+
 [![Watch on YouTube](https://img.youtube.com/vi/m3JfUQHXQjQ/0.jpg)](https://youtu.be/m3JfUQHXQjQ)
 
 [![▶️ Click to Watch](https://img.shields.io/badge/Play-Video-red?logo=youtube&style=for-the-badge)](https://youtu.be/m3JfUQHXQjQ)
