@@ -18,7 +18,7 @@ I also created a Figma page where I wrote down some extensive initial remarks an
   <img src="docs/figma_board1.jpg" alt="Week 1 Concept Sketch" width="800"/>
 </p>
 
-- [📄 View Concept Report (PDF)](docs/research_proposal.pdf)
+- [📄 View Research Report (PDF)](docs/research_proposal.pdf)
 
  
 Furthermore, I had a meeting with my supervisor, which helped me refine and examine my ideas through fresher, more experienced eyes, as well as ensure I began thinking of this project within its research requirements. As a result, this led me to the second part of this week, where I worked on my research methodology report as well as developed an initial Google questionnaire that will ensure my data collection process is clear and smooth.
