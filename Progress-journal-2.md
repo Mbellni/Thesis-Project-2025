@@ -40,11 +40,23 @@ This allows my research and project to show off the capabilities of my project t
   <img src="docs/French_translation_scrct.png" width="500"/>
 </p>
 
-I still intend to test people of other nationalities and backgrounds; otherwise, this richness in my research won't apply as much. I may add Portuguese language support as well for when I go back home and test it.
+I still intend to test people of other nationalities and backgrounds; otherwise, this richness in my research won't apply as much. I may add Portuguese language support as well, for when I go back home and test it.
 
 
 ## Unreal Integration
 ### First Steps - Plug-in Integration and Issues
+
+To achieve the first successful Unreal integration, I followed a YouTube tutorial posted by the official Convai channel. This is where they keep developers updated about new features and how they work, and can be manipulated by anyone wishing to work with them. As a result, this was my main source of guidance during the creation of my project. 
+
+- [Watch the Tutorial]([docs/research_proposal.pdf](https://youtu.be/HHhkBd6NOlo?si=e8E-GpeND85q9KS2))
+
+This first step involved creating a quick VR-supported experinece that used my Convai avatar (the one I chose and that you can watch on the first video) as an adapted Convai Unreal asset. The process was quite simple and worked overall well. Unfortunately, there was an issue that arose, visible in the following video.
+
+[![Watch on YouTube](https://img.youtube.com/vi/m3JfUQHXQjQ/0.jpg)](https://youtu.be/m3JfUQHXQjQ)
+
+[![▶️ Click to Watch](https://img.shields.io/badge/Play-Video-red?logo=youtube&style=for-the-badge)](https://youtu.be/m3JfUQHXQjQ)
+
+As you can see, the avatar wasn't at all looking like the one on the Convai website, and I did not know how to fix this, even after multiple tries with different Convai avatars. Fortunately, I had a plan.
 
 ### Metahuman Integration 
 
