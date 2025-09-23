@@ -52,7 +52,7 @@ To achieve the first successful Unreal integration, I followed a YouTube tutoria
 
 This first step involved creating a quick VR-supported experinece that used my Convai avatar (the one I chose and that you can watch on the first video) as an adapted Convai Unreal asset. The process was quite simple and worked overall well. Unfortunately, there was an issue that arose, visible in the following video.
 
-Initially, I started this project on Unreal's latest update (aka 5.6.1); however, due to Convai's plugins for the VR character integration version support, I had to downgrade to 5.3.
+NOTE: Initially, I started this project on Unreal's latest update (aka 5.6.1); however, due to Convai's plugins for the VR character integration version support, I had to downgrade to 5.3.
 
 [![Watch on YouTube](https://img.youtube.com/vi/m3JfUQHXQjQ/0.jpg)](https://youtu.be/m3JfUQHXQjQ)
 
@@ -62,19 +62,29 @@ As you can see, the avatar wasn't at all looking like the one on the Convai webs
 
 ### Metahuman Integration 
 
+My initial plan involved using Metahuman characters as the avatars for my experiment, so I quickly discarded the previous approach and started working on Convai-powered Metahumans in Unreal Engine. To achieve this, I once again used the Convai channel as my main guidance towards a working iteration.
+
+- Metahuman Integration: screenshots + Tutorial
+
 ### Metahuman Animation and Issues
 
-### Scene Creation and Asset Issues
-
-
-- Unreal Integration First steps = screenshots: just simple integration and testing in Unreal (main desired software) - link to YouTube tutorial - version change from 5.6.1 to 5.3 + VR testing (problem with avatar not matching. Change to methuman
-- Metahuman Integration: screenshots + Tutorial
 - Issue with retargetting animation in 5.3 and change to 5.6.1 again (explain retargeting option added after 5.4) screenshots of f***** up character retargeting on Unreal Engine 5.3
 - successful retargeting in 5.6 and screenshots
 - problems changing the idle animation and screenshots
+
+### Github and Issues
+
 - Problems uploading project to GitHub and LGF
+
+### Scene Creation and Asset Issues
+
 - Scene creation (search for good 3d assets): software screenshots
 - Desired asset issue (optimisation for 4.2.7 and adaptation into 5.6.1 solution - screenshots
+
+
+
+
+
 - Issue 2: lighting issues in 5.6.1 adaptation + solution
-- Changes to questionnaire and claim report
+
 
