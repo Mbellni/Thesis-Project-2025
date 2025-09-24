@@ -97,13 +97,12 @@ As expected, I encountered issues with GitHub when uploading large files to my p
 
 ### Scene Creation and Asset Issues
 
+As for the environment where the experiment is going to take place, I wanted to create something that made the user feel relaxed 
+
+
+
 - Scene creation (search for good 3d assets): software screenshots
 - Desired asset issue (optimisation for 4.2.7 and adaptation into 5.6.1 solution - screenshots
-
-
-
-
-
 - Issue 2: lighting issues in 5.6.1 adaptation + solution
 
 
