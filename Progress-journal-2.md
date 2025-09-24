@@ -69,7 +69,8 @@ My initial plan involved using Metahuman characters as the avatars for my experi
 The only difference in my iteration of this tutorial was the VR support, which I kept the same as the previous tutorial, in hopes of getting it to work with Metahuman. Thankfully, this ended up working without any implementation issues.
 
 <p align="center">
-  <img src="docs/" width="500"/>
+  <img src="docs/malia_1.png" width="500"/>
+  <img src="docs/malia_2.png" width="500"/>
 </p>
 
 [![Watch on YouTube](https://img.youtube.com/vi/2M895Gpll70/0.jpg)](https://youtu.be/2M895Gpll70)
