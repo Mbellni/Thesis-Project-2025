@@ -88,7 +88,12 @@ There are only a few problems here. For example, I can still see the text box fr
 
 ### Github and Issues
 
-- Problems uploading project to GitHub and LGF
+As expected, I encountered issues with GitHub when uploading large files to my project page. Due to this, I asked chatGPT to help me out and figure out a solution, to which it told me to change my .gitignore and .gitattributes files. This apparently allowed it to ignore non-essential files that get automatically stored in LFS (or large file storage). After a few tries, it finally worked. But I am still concerned for the future since my project is quite heavy. Hopefully, this won't be an issue again, but I'll definitely mention it at my next supervisor meeting.
+
+<p align="center">
+  <img src="docs/github_issue_1.png" width="1000"/>
+</p>
+
 
 ### Scene Creation and Asset Issues
 
