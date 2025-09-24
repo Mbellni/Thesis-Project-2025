@@ -48,7 +48,7 @@ I still intend to test people of other nationalities and backgrounds; otherwise,
 
 To achieve the first successful Unreal integration, I followed a YouTube tutorial posted by the official Convai channel. This is where they keep developers updated about new features and how they work, and can be manipulated by anyone wishing to work with them. As a result, this was my main source of guidance during the creation of my project. 
 
-- [Watch the Tutorial]([docs/research_proposal.pdf](https://youtu.be/HHhkBd6NOlo?si=e8E-GpeND85q9KS2))
+- [Watch the Tutorial](https://www.youtube.com/watch?v=HHhkBd6NOlo&t=1s)
 
 This first step involved creating a quick VR-supported experinece that used my Convai avatar (the one I chose and that you can watch on the first video) as an adapted Convai Unreal asset. The process was quite simple and worked overall well. Unfortunately, there was an issue that arose, visible in the following video.
 
@@ -63,6 +63,11 @@ As you can see, the avatar wasn't at all looking like the one on the Convai webs
 ### Metahuman Integration 
 
 My initial plan involved using Metahuman characters as the avatars for my experiment, so I quickly discarded the previous approach and started working on Convai-powered Metahumans in Unreal Engine. To achieve this, I once again used the Convai channel as my main guidance towards a working iteration.
+
+- [Watch the Tutorial](https://youtu.be/jqNttRE3nD4?si=4BVpWmP83sYRkr5Y)
+The only difference in my iteration of this tutorial was the VR support, which I kept the same as the previous tutorial, in hopes of getting it to work with Metahuman. Thankfully, this ended up working without any issues.
+
+
 
 - Metahuman Integration: screenshots + Tutorial
 
