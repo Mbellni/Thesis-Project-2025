@@ -65,11 +65,19 @@ As you can see, the avatar wasn't at all looking like the one on the Convai webs
 My initial plan involved using Metahuman characters as the avatars for my experiment, so I quickly discarded the previous approach and started working on Convai-powered Metahumans in Unreal Engine. To achieve this, I once again used the Convai channel as my main guidance towards a working iteration.
 
 - [Watch the Tutorial](https://youtu.be/jqNttRE3nD4?si=4BVpWmP83sYRkr5Y)
-The only difference in my iteration of this tutorial was the VR support, which I kept the same as the previous tutorial, in hopes of getting it to work with Metahuman. Thankfully, this ended up working without any issues.
 
+The only difference in my iteration of this tutorial was the VR support, which I kept the same as the previous tutorial, in hopes of getting it to work with Metahuman. Thankfully, this ended up working without any implementation issues.
 
+<p align="center">
+  <img src="docs/" width="500"/>
+</p>
 
-- Metahuman Integration: screenshots + Tutorial
+[![Watch on YouTube](https://img.youtube.com/vi/2M895Gpll70/0.jpg)](https://youtu.be/2M895Gpll70)
+
+[![▶️ Click to Watch](https://img.shields.io/badge/Play-Video-red?logo=youtube&style=for-the-badge)](https://youtu.be/2M895Gpll70)
+
+There are only a few problems here. For example, I can still see the text box from the corner of my left eye (not visible in the video). The second problem  is that the Meathumn keeps looking down/ This is because the VR pawn's origin is actually way higher, so the capsule's middle point is placed on the floor. This allows for the VR to work at the proper height, but it makes it so that the Metahuman assumes the player's eyes are there too. The final issue is to do with  the fact that she still said fictional... I will have to tweak this later in order to avoid this problem during experimentation.
+
 
 ### Metahuman Animation and Issues
 
