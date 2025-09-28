@@ -48,7 +48,7 @@ I still intend to test people of other nationalities and backgrounds; otherwise,
 
 To achieve the first successful Unreal integration, I followed a YouTube tutorial posted by the official Convai channel. This is where they keep developers updated about new features and how they work, and can be manipulated by anyone wishing to work with them. As a result, this was my main source of guidance during the creation of my project. 
 
-- [Watch the Tutorial]([docs/research_proposal.pdf](https://youtu.be/HHhkBd6NOlo?si=e8E-GpeND85q9KS2))
+- [Watch the Tutorial](https://www.youtube.com/watch?v=HHhkBd6NOlo&t=1s)
 
 This first step involved creating a quick VR-supported experinece that used my Convai avatar (the one I chose and that you can watch on the first video) as an adapted Convai Unreal asset. The process was quite simple and worked overall well. Unfortunately, there was an issue that arose, visible in the following video.
 
@@ -64,7 +64,21 @@ As you can see, the avatar wasn't at all looking like the one on the Convai webs
 
 My initial plan involved using Metahuman characters as the avatars for my experiment, so I quickly discarded the previous approach and started working on Convai-powered Metahumans in Unreal Engine. To achieve this, I once again used the Convai channel as my main guidance towards a working iteration.
 
-- Metahuman Integration: screenshots + Tutorial
+- [Watch the Tutorial](https://youtu.be/jqNttRE3nD4?si=4BVpWmP83sYRkr5Y)
+
+The only difference in my iteration of this tutorial was the VR support, which I kept the same as the previous tutorial, in hopes of getting it to work with Metahuman. Thankfully, this ended up working without any implementation issues.
+
+<p align="center">
+  <img src="docs/malia_1.png" width="500"/>
+  <img src="docs/malia_2.png" width="500"/>
+</p>
+
+[![Watch on YouTube](https://img.youtube.com/vi/2M895Gpll70/0.jpg)](https://youtu.be/2M895Gpll70)
+
+[![▶️ Click to Watch](https://img.shields.io/badge/Play-Video-red?logo=youtube&style=for-the-badge)](https://youtu.be/2M895Gpll70)
+
+There are only a few problems here. For example, I can still see the text box from the corner of my left eye (not visible in the video). The second problem  is that the Meathumn keeps looking down/ This is because the VR pawn's origin is actually way higher, so the capsule's middle point is placed on the floor. This allows for the VR to work at the proper height, but it makes it so that the Metahuman assumes the player's eyes are there too. The final issue is to do with  the fact that she still said fictional... I will have to tweak this later in order to avoid this problem during experimentation.
+
 
 ### Metahuman Animation and Issues
 
@@ -74,17 +88,21 @@ My initial plan involved using Metahuman characters as the avatars for my experi
 
 ### Github and Issues
 
-- Problems uploading project to GitHub and LGF
+As expected, I encountered issues with GitHub when uploading large files to my project page. Due to this, I asked chatGPT to help me out and figure out a solution, to which it told me to change my .gitignore and .gitattributes files. This apparently allowed it to ignore non-essential files that get automatically stored in LFS (or large file storage). After a few tries, it finally worked. But I am still concerned for the future since my project is quite heavy. Hopefully, this won't be an issue again, but I'll definitely mention it at my next supervisor meeting.
+
+<p align="center">
+  <img src="docs/github_issue_1.png" width="1000"/>
+</p>
+
 
 ### Scene Creation and Asset Issues
 
+As for the environment where the experiment is going to take place, I wanted to create something that made the user feel relaxed 
+
+
+
 - Scene creation (search for good 3d assets): software screenshots
 - Desired asset issue (optimisation for 4.2.7 and adaptation into 5.6.1 solution - screenshots
-
-
-
-
-
 - Issue 2: lighting issues in 5.6.1 adaptation + solution
 
 

@@ -1,1 +1,3 @@
-- Changes to questionnaire and claim report
+- Changes to the questionnaire and claim report
+- Trying character creator
+- 
