@@ -1,3 +1,8 @@
 - Changes to the questionnaire and claim report
 - Trying character creator
+- Doing sky sphere and issues
+- Lighting solutions
+- Room changes according to feedback
+- Character design and Morality
+- Character Design face rig and UE incorporation
 - 
