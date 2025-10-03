@@ -97,9 +97,19 @@ As expected, I encountered issues with GitHub when uploading large files to my p
 
 ### Scene Creation and Asset Issues
 
-As for the environment where the experiment is going to take place, I wanted to create something that made the user feel relaxed 
+As for the environment where the experiment is going to take place, I wanted to create something that made the user feel relaxed and comfortable enough to have a conversation at. To accomplish this, I followed a list of points that I'd found in my first report. This included a series of aspects that make a space feel safe for people to talk about their lives. Since my research is not on this topic, I stuck with this strategy as it not only gave me a clearer direction to work with design-wise, but it also  helped me not deviate from my main research point. 
 
 
+- [Check the Safe Space Study](https://onlinelibrary.wiley.com/doi/full/10.1111/inm.13174)
+
+
+Likewise, I did not digitally sculpt or put together various 3D assets. The room asset I am using was a pre-made, complete asset that I found on Fab, which happened to check all the boxes in terms of safe design. Furthermore, it was extremely realistic, which was exactly what I was aiming for.
+
+<p align="center">
+  <img src="docs/room_02.png" width="1000"/>
+</p>
+
+- [Check the Fab Presset](https://www.fab.com/listings/62e0fe0f-3fd7-4d40-993a-cae13e8199f4)
 
 - Scene creation (search for good 3d assets): software screenshots
 - Desired asset issue (optimisation for 4.2.7 and adaptation into 5.6.1 solution - screenshots
