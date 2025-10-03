@@ -111,8 +111,8 @@ Likewise, I did not digitally sculpt or put together various 3D assets. The room
 
 - [Check the Fab Presset](https://www.fab.com/listings/62e0fe0f-3fd7-4d40-993a-cae13e8199f4)
 
-- Scene creation (search for good 3d assets): software screenshots
-- Desired asset issue (optimisation for 4.2.7 and adaptation into 5.6.1 solution - screenshots
-- Issue 2: lighting issues in 5.6.1 adaptation + solution
+In reality, this asset was made for Unreal Engine versions 4.24-4.27. However, I was able to work around this issue by dowloading UE 4.27, opeing the file and experimenting with exportation of the scnene and changing the project unreal version. I had a few hiccups here and there with the exportation not working or the file being corrupt, but it eventually ended up working quite well!
 
+
+### Lighting and Issues
 
