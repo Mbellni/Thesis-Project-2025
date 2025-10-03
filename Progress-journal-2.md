@@ -116,3 +116,24 @@ In reality, this asset was made for Unreal Engine versions 4.24-4.27. However, I
 
 ### Lighting and Issues
 
+This was honestly one of the most labour-intensive parts of this project. The issues were so many that at some point, I had to simply create new levels in order to start from scratch. Here are a few problems I encountered:
+
+- UE5 not recognising Lumen;
+- Constant issue with movable lights and warnings (seen in the image above);
+- Weird effect with post-processing volume and consequent issues with over- and under-exposure;
+- Pixelated effect with square lights and upon baking lights;
+
+<p align="center">
+  <img src="docs/issue_01.png" width="500"/>
+  <img src="docs/issue_02.png" width="500"/>
+</p>
+
+After spending many hours trying to guess and correct settings, I decided to consult one of the tutorials that had helped me the most with previous projects. I watched the lighting section specifically and followed every step religiously until I felt like I had finally gotten something I could call acceptable. Fortunately, everything worked out in the end, and all my issues were resolved. Similarly, the simple fact of being able to activate Lumen, among other settings, allowed me to have great resolution while keeping the movable lights on upon hitting play. This contributed to the ultimate realism I managed to achieve in this scene.
+
+- [Watch the Tutorial](https://youtu.be/wqjJU4V6bGM?si=GXJwXjFZdjIiYCm7)
+
+<p align="center">
+  <img src="docs/light_01.png" width="800"/>
+</p>  
+
+Ultimately, I spent hours on this step when the obvious solution was going back to the basics and stopping to work on a possibly corrupt file/settings. I am very happy with what I was able to create, and overall, the pacing is sticking to the schedule I set for myself.
