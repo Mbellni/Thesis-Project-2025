@@ -86,12 +86,19 @@ This section of the project was going to be a determining factor on whether I ca
 
 To elaborate further, my goal was always to have a character sitting down during the dialogue. This was in order to achieve a comfortable position that humans tend to adopt when stabilising dialogues with other humans, that is, sitting. Therefore, I considered the incorporation of Convai with a modified permanently sitting idle position to be of utmost importance. However, after watching all the relevant tutorials on Convai's YouTube channel, I realised there was no concrete way of changing the base/idle position and having the character sit down during the entire experience. The only options available involved giving the character the option to play a sitting-down animation, but ultimately returning to the idle standing up position. Even after checking in Convai forums of people having the same goal, no one appeared to have an answer since it was so niche and specific. Only one comment stood out to me: "ït will come down to your unreal knowledge at this point.".
 
-As a result, that's exactly what I did. I spent a few hours exploring the Convai character's blueprints and figuring out what connected to what, and exactly which parts I could and should change. I watched countless tutorials on YouTube about character animation since I knew I would definitely have to import some sort of sitting motion pre-recorded animation, and somehow add it to my character to replace the animation sequences in the character's idle animation section inside its blueprint. After some time, I finally found a potential solution. Apparently, Unreal Engine had been updated to include retargeting technology after 5.4, which would enable me to import my desired animations and retarget them to a new mesh skeleton. The only issue was that I had just swapped back to 5.3...
+As a result, that's exactly what I did. I spent a few hours exploring the Convai character's blueprints and figuring out what connected to what, and exactly which parts I could and should change. I watched countless tutorials on YouTube about character animation since I knew I would definitely have to import some sort of sitting motion pre-recorded animation, and somehow add it to my character to replace the animation sequences in the character's idle animation section inside its blueprint. After some time, I finally found a potential solution. Apparently, Unreal Engine had been updated to include retargeting technology after 5.4, which would enable me to import my desired animations and retarget them to a new mesh skeleton. The only issue was that I had just swapped back to 5.3... Even so, I had no choice since the retargeting didnèt work properly in 5.3.
 
 However, I also realised that since I'd changed my initial avatar incorporation approach from Convai VR pawn to Metahumans, I wouldn't need the plugins that made me switch versions in the first place. As confusing as this might seem, it meant I was able to move back to 5.6 and have access to the new retargeting feature. 
 
+<p align="center">
+  <img src="docs/anim_01.png" width="500"/>
+  <img src="docs/anim_02.png" width="500"/>
+</p>
+These were some of the problems I had in Unreal 5.3. As you can see, the retargeting was not working, and every time I applied the animation to a skeletal mesh, it would deform it or stretch it. 
 
-- Issue with retargetting animation in 5.3 and change to 5.6.1 again (explain retargeting option added after 5.4) screenshots of f***** up character retargeting on Unreal Engine 5.3
+
+
+
 - successful retargeting in 5.6 and screenshots
 - problems changing the idle animation and screenshots
 
