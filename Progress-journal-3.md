@@ -1,8 +1,9 @@
 - Changes to the questionnaire and claim report
 - Trying character creator
-- Doing sky sphere and issues
+- Doing sky sphere and issues + trees
 - Lighting solutions
 - Room changes according to feedback
-- Character design and Morality
+- Character design and Morality (chatGPT)
 - Character Design face rig and UE incorporation
-- 
+- Character personality changes according to study and issues
+
