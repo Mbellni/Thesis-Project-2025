@@ -96,11 +96,18 @@ However, I also realised that since I'd changed my initial avatar incorporation 
 </p>
 These were some of the problems I had in Unreal 5.3. As you can see, the retargeting was not working, and every time I applied the animation to a skeletal mesh, it would deform it or stretch it. 
 
+After switching to Unreal Engine 5.6, these issues were easily resolved with the aforementioned retargetting feature. It worked perfectly on the skeletal mesh actors once I applied the animations I'd downloaded from Fab. 
 
+<p align="center">
+  <img src="docs/anim_03.png" width="800"/>
+</p>
 
+However, the problems didn't end there. Unfortunately, no matter how hard I tried, I was not able to change the idle animation from the Convai animation blueprint, which was my initial goal when retargetting. As a result, I ended up getting this weird in between sitting and standing up position. However, after many goes at changing the idle animation blueprint layers, I decided I could not and would not waste more time on trying to make it perfect. Instead, I decided to have my character stand a bit lower and have their feet go through the floor so they could sit at a realistic height. In any case, the player would not be able to see them with a table covering their feet.
 
-- successful retargeting in 5.6 and screenshots
-- problems changing the idle animation and screenshots
+<p align="center">
+  <img src="docs/anim_04.png" width="500"/>
+  <img src="docs/anim_05.png" width="500"/>
+</p>
 
 ### Github and Issues
 
