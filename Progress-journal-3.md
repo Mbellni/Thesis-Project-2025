@@ -1,3 +1,4 @@
+# Weekly Progress Journal (22nd to 28th September)
 - Changes to the questionnaire and claim report
 - Trying character creator
 - Doing sky sphere and issues + trees
