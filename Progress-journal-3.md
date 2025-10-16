@@ -32,7 +32,7 @@ On the other hand, in terms of 3D assets, my approach was quite simple. I'd prev
 
 
 
-## Character design and Morality (chatGPT)
+## Character Design and Morality (chatGPT)
 
 
 
