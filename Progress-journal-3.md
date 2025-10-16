@@ -15,6 +15,16 @@ Furthermore, he directed me towards the Likert scale system, which is the standa
 
 ## Sky Sphere and nature assets + issues
 
+For the room window's background, I'd planned to have a more natural environment that coincided with my research on relaxing and safe spaces. To accomplish this in Unreal, I'd have two options. 1 - Create an environment from scratch with many heavy 3D realistic assets. Or 2 - Create a sky sphere with 8K nature pictures and add a few 3D assets close to the windows for further immersion. Well, I obviously chose the latter as it would not only make for an easier-to-run project, but it would also cut down on the time I'd have to work on it.
+
+Unfortunately, despite everything else working, the sky sphere proved to be my last frustrating challenge with Unreal Engine. It was not the first time I created one, but unfortunately, depending on the software version and its various templates, the methods for creating a functional sky sphere can change. For some reason, it kept being upside down, and the scale was very peculiar. However, after hours of searching for solutions, giving up and then searching again, I finally found a developer tutorial that worked. 
+
+add link
+
+On the other hand, in terms of 3D assets, my approach was quite simple. I'd previously worked with Unreal's megascan packages and know them to be very reliable and incredibly well designed. As such, I chose a tree megascan packlage I found to fit the background, and imported a few tree assets to my main project from a secondary file so as not to overload it with all the extra 3D assets. The results were honestly amazing with the tree foliage, even including some light wind animations that just make it look very natural.
+
+add picture
+
 
 
 ## Environment changes according to feedback
