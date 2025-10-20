@@ -30,6 +30,29 @@ On the other hand, in terms of 3D assets, my approach was quite simple. I'd prev
 
 ## Environment changes according to feedback
 
+In terms of feedback, I mainly went to 3 different sources. Firstly, the closest person that had a design-based background was my classmate Iman. Having had professional experience in the field, her opinion was incredibily valid to me, therefore, I went to her first. This was her feedback.
+
+### Person 1 - Iman
+<p align="center">
+  <img src="docs/feedback_01.png" width="1000"/>
+</p>
+
+Besides this, she gave me some inspiration images to get the environment and lighing right. With this, I created a quick brainstorming board on Figma. Moreover, she told me to remove the office curtains.
+
+<p align="center">
+  <img src="docs/feedback_02.png" width="1000"/>
+</p>
+
+### Person 2 - My partner 
+Secondly, I decided to ask my partner for advice since he is a person outside the art's field and I wanted an honest opinion that cam froma feelings-based point of view instead of aesthetic-based. Furthermore, I had to try to keep the project as secret from other people as possible so as to not ruin the potential for experimenting on specific subjects here in France. 
+
+His feedback was: It needs to be more chotic or have some random stuff around. Otherwise it feels too modern and not natural enough.
+
+This was indeed a really useful insight as I ended up gping tp my safe space study and cheeck tthe poijts people had mentioned. And it did include things like board games and hot bevaarges. So that is exactly what I did. I wipped up a couple of Fab assets and placed them on the table. Furthermore, I decide to add a little rubber duck in front of the TV since it added that funny element that just made it look like a relaxed livable space.
+
+
+
+### Person 3 - My supervisor
 
 
 ## Character Design and Morality (chatGPT)
