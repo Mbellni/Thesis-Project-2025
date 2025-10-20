@@ -50,9 +50,22 @@ His feedback was: It needs to be more chotic or have some random stuff around. O
 
 This was indeed a really useful insight as I ended up gping tp my safe space study and cheeck tthe poijts people had mentioned. And it did include things like board games and hot bevaarges. So that is exactly what I did. I wipped up a couple of Fab assets and placed them on the table. Furthermore, I decide to add a little rubber duck in front of the TV since it added that funny element that just made it look like a relaxed livable space.
 
+<p align="center">
+  <img src="docs/feedback_03.png" width="500"/>
+  <img src="docs/feedback_04.png" width="500"/>
+</p>
 
 
 ### Person 3 - My supervisor
+
+I obviously neede a thumbs up from my supervisor before advancing any further, but honmestly there isn't much to say. It was just really positive/undersdtanding and it allowed me to move on to the the next desiging phase, the character.
+
+This is what I ended up with:
+
+
+<p align="center">
+  <img src="docs/room_01.png" width="1000"/>
+</p>
 
 
 ## Character Design and Morality (chatGPT)
