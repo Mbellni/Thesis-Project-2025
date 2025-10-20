@@ -70,6 +70,16 @@ This is what I ended up with:
 
 ## Character Design and Morality (chatGPT)
 
+Up to now, I had been using a placeholder character I'd gotten from Metahuman, however, my goal was to design an entirely new character that had some conceptual relavance to it. After digging further into gender, age, appearnace and how it relates to credibility, I quickly realised that the reulsts were mixed and that I would not be able to fairly analyse and make desisions based on this data without creating an entirely new research project by itself. Upon frther discussions with my supervisor he agreed on this point and told me to go with either a reandom avatar or just put a rnadom white male (which by itself could say a lot I guess). But no. I don't think it should be up to me since I'll be biased wetaher I inted to or not and lack experinece and knowledge in other cultures to make a Metahuman that can be seen and intercultural.
+
+Instead I found a better approach that would take any guilt and responsibility off my hands and that both I and my supervisor fount to be conceptually interesting and ironic. I decided to let ChatGOT do it. I prompted it to used all the information it had available to create the most trsutworthy human face, which would then become the design for my Metahuman. Through this, I avoided a series of ethical and moral problems by attributinhg this task to the most knowledgeable (I guess) LLM that will instead make those desisions for me. Wethare there are biases or not, it will then depedn on humanities data concerning this issue/ the programnation and data use in ChatGPT, and not on me.
+
+Here is the conversation I had with ChatGPT and how I got to my final Metahuman design.
+
+
+
+
+Furthernmore, for the same reasons, ChatGPT was also used to help me figure out the accent, voice pitch and name of the character.
 
 
 ## Character personality changes according to study and issues
