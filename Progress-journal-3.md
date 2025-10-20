@@ -77,7 +77,9 @@ Instead I found a better approach that would take any guilt and responsibility o
 Here is the conversation I had with ChatGPT and how I got to my final Metahuman design.
 
 
+[![Watch on YouTube](https://img.youtube.com/shorts/qNzpHvOk1j8/0.jpg)](https://youtu.be/qNzpHvOk1j8)
 
+[![▶️ Click to Watch](https://img.shields.io/badge/Play-Video-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/shorts/qNzpHvOk1j8)
 
 Furthernmore, for the same reasons, ChatGPT was also used to help me figure out the accent, voice pitch and name of the character.
 
