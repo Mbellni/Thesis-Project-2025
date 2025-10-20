@@ -55,18 +55,15 @@ This was indeed a really useful insight as I ended up gping tp my safe space stu
   <img src="docs/feedback_04.png" width="500"/>
 </p>
 
-
 ### Person 3 - My supervisor
 
 I obviously neede a thumbs up from my supervisor before advancing any further, but honmestly there isn't much to say. It was just really positive/undersdtanding and it allowed me to move on to the the next desiging phase, the character.
 
 This is what I ended up with:
 
-
 <p align="center">
   <img src="docs/room_01.png" width="1000"/>
 </p>
-
 
 ## Character Design and Morality (chatGPT)
 
@@ -74,15 +71,18 @@ Up to now, I had been using a placeholder character I'd gotten from Metahuman, h
 
 Instead I found a better approach that would take any guilt and responsibility off my hands and that both I and my supervisor fount to be conceptually interesting and ironic. I decided to let ChatGOT do it. I prompted it to used all the information it had available to create the most trsutworthy human face, which would then become the design for my Metahuman. Through this, I avoided a series of ethical and moral problems by attributinhg this task to the most knowledgeable (I guess) LLM that will instead make those desisions for me. Wethare there are biases or not, it will then depedn on humanities data concerning this issue/ the programnation and data use in ChatGPT, and not on me.
 
-Here is the conversation I had with ChatGPT and how I got to my final Metahuman design.
-
-
-[![Watch on YouTube](https://img.youtube.com/shorts/qNzpHvOk1j8/0.jpg)](https://youtu.be/qNzpHvOk1j8)
+Here is the conversation I had with ChatGPT and how I got to my final Metahuman design:
 
 [![▶️ Click to Watch](https://img.shields.io/badge/Play-Video-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/shorts/qNzpHvOk1j8)
 
-Furthernmore, for the same reasons, ChatGPT was also used to help me figure out the accent, voice pitch and name of the character.
+Furthernmore, for the same reasons, ChatGPT was also used to help me figure out the accent, voice pitch and name of the character (David).
 
+Here are a few screenshots of my experimenting with Metahuman and getting david to llok as similar tp ChatGPT's image as possible:
+
+<p align="center">
+  <img src="docs/david_01.png" width="1000"/>
+  <img src="docs/david_02.png" width="1000"/>
+</p>
 
 ## Character personality changes according to study and issues
 
