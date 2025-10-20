@@ -77,7 +77,7 @@ Here is the conversation I had with ChatGPT and how I got to my final Metahuman 
 
 Furthernmore, for the same reasons, ChatGPT was also used to help me figure out the accent, voice pitch and name of the character (David).
 
-Here are a few screenshots of my experimenting with Metahuman and getting david to llok as similar tp ChatGPT's image as possible:
+Here are a few screenshots of my experimenting with Metahuman and getting david to look as similar tp ChatGPT's image as possible:
 
 <p align="center">
   <img src="docs/david_01.png" width="1000"/>
