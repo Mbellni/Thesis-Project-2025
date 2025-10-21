@@ -92,6 +92,7 @@ Here is the final character design, incorporated in the Unreal project file. The
 
 ## Character personality changes according to study and issues
 
-My initial plan was to adjust Convai's character emotions according to the study values I'd seen in this study (add it). The idea was quite relevant since the Convai website used the same parameters as the study to control character personality.
+My initial plan was to adjust Convai's character emotions according to the study values I'd seen in [this study](https://arxiv.org/pdf/2307.00184). The idea was quite relevant since the Convai website used the same parameters as the study to control character personality.
 
-Unfortunately, Convai only lets me use whole values between 1 and 5 for each parameter, which ended up not corresponding exactly with the data from the study. However, I tried rounding up the values to 3, and hopefully, I'd get the closest thing to the best AI chatbot's personality. Sadly this was not the case, as the avatr 
+Unfortunately, Convai only lets me use whole values between 1 and 5 for each parameter, which ended up not corresponding exactly with the data from the study. However, I tried rounding up the values to 3, and hopefully, I'd get the closest thing to the best AI chatbot's personality. Sadly, this was not the case, as the avatar became extremely sensitive to more opinionated remarks. Honestly, it was quite funny, but definitely not acceptable for experimentation purposes, so I dialled back to 2 (the initial value it came with). This ended up being the sweet spot, and according to my testing sessions, the closest thing I got to feeling like I was talking to a chatbot such as ChatGPT.
+
