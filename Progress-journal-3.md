@@ -96,3 +96,12 @@ My initial plan was to adjust Convai's character emotions according to the study
 
 Unfortunately, Convai only lets me use whole values between 1 and 5 for each parameter, which ended up not corresponding exactly with the data from the study. However, I tried rounding up the values to 3, and hopefully, I'd get the closest thing to the best AI chatbot's personality. Sadly, this was not the case, as the avatar became extremely sensitive to more opinionated remarks. Honestly, it was quite funny, but definitely not acceptable for experimentation purposes, so I dialled back to 2 (the initial value it came with). This ended up being the sweet spot, and according to my testing sessions, the closest thing I got to feeling like I was talking to a chatbot such as ChatGPT.
 
+<p align="center">
+  <img src="docs/pers_01.png" width="800"/>
+</p>
+Study on LLM personality trait values
+
+<p align="center">
+  <img src="docs/pers_02.png" width="800"/>
+</p>
+Convai's character personality adjustment tool
