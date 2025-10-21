@@ -99,9 +99,14 @@ Unfortunately, Convai only lets me use whole values between 1 and 5 for each par
 <p align="center">
   <img src="docs/pers_01.png" width="800"/>
 </p>
-Study on LLM personality trait values
+<p align="center">
+  Study on LLM personality trait values
+</p>
+
 
 <p align="center">
   <img src="docs/pers_02.png" width="800"/>
 </p>
-Convai's character personality adjustment tool
+<p align="center">
+  Convai's character personality adjustment tool
+</p>
