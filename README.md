@@ -45,15 +45,15 @@ Please follow the instructions below to run the packaged VR build.
 
 Download the Windows version of the experiment here:
 
-👉 **[OneDrive Download Link](https://artslondon-my.sharepoint.com/:f:/g/personal/m_liragomesdealmeidabelo0420201_arts_ac_uk/IgCgcbesJObGQpgaGw6kSrOwAW2XItiI4N5TNg8m3_xxZo4?e=MBnrhI)**  
+**[OneDrive Download Link](https://artslondon-my.sharepoint.com/:f:/g/personal/m_liragomesdealmeidabelo0420201_arts_ac_uk/IgCgcbesJObGQpgaGw6kSrOwAW2XItiI4N5TNg8m3_xxZo4?e=MBnrhI)**  
 
 After downloading, unzip the folder.
 
-Inside you will find an application named "Thesis Project"
+Inside, you will find an application named "Thesis Project"
 
 ---
 
-##  Requirements
+## Requirements
 
 - **Meta Quest 2 / 3 / Pro**  
 - **Meta Quest Link (USB-C cable or Air Link)**
@@ -64,7 +64,7 @@ You **do NOT** need Unreal Engine or Git LFS to run the experiment.
 
 ---
 
-##  How to Run the Experiment
+## How to Run the Experiment
 
 ### 1. Connect your Meta Quest to your PC
 - Open the **Meta Quest Link** app.  
@@ -75,12 +75,12 @@ You **do NOT** need Unreal Engine or Git LFS to run the experiment.
 
 ### 2. Launch the Experience
 1. On your PC, open the folder you extracted from OneDrive.  
-2. Double-click the application file
+2. Double-click the application file "Thesis_Project" (with the U logo)
 3. Put on your headset — you should automatically be inside the VR environment.
 
 ---
 
-##  How to Interact With the AI Character
+## How to Interact With the AI Character
 
 ### **Enable Push-to-Talk (A button)**
 
@@ -99,7 +99,7 @@ Your character speaks using a push-to-talk system:
 
 ---
 
-##  Additional Notes
+## Additional Notes
 
 - If audio cuts or lags, ensure the Quest Link connection is stable.  
 - If the environment appears blurry, increase the render resolution in the Oculus PC app.
@@ -108,7 +108,7 @@ Your character speaks using a push-to-talk system:
 
 ---
 
-## 🛠 For Developers (Optional)
+## For Developers
 
 If you are a developer who wants the project files:
 
