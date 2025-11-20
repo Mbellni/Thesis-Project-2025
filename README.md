@@ -41,7 +41,7 @@ Please follow the instructions below to run the packaged VR build.
 
 ---
 
-##  Download the Experiment (Packaged Build)
+## Download the Experiment (Packaged Build)
 
 Download the Windows version of the experiment here:
 
@@ -118,7 +118,6 @@ If you are a developer who wants the project files:
 
 These steps are **not required** for participants.
 
----
 
 ---
 
