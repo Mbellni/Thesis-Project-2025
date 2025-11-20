@@ -35,44 +35,90 @@ The system combines:
 
 ## Getting Started
 
-### Prerequisites
-
-- **Unreal Engine 5.6.1**
-- **VR headset** (Meta Quest via Link, or any PCVR-supported HMD)
-- **Meta Quest Link App**
-- **Git LFS** (required for UE assets)
+This repository contains the source files of the VR persuasion experiment.  
+**Participants do not need to download the repository.**  
+Please follow the instructions below to run the packaged VR build.
 
 ---
 
-### Clone the Repository
+##  Download the Experiment (Packaged Build)
 
-```bash
-git clone https://github.com/Mbellini/Thesis-Project-2025.git
-cd Thesis-Project-2025
+Download the Windows version of the experiment here:
 
-```
+👉 **[OneDrive Download Link](https://artslondon-my.sharepoint.com/:f:/g/personal/m_liragomesdealmeidabelo0420201_arts_ac_uk/IgCgcbesJObGQpgaGw6kSrOwAW2XItiI4N5TNg8m3_xxZo4?e=MBnrhI)**  
 
-Setup Instructions
-1. Install Git LFS
-git lfs install
-git lfs pull
+After downloading, unzip the folder.
 
-2. Open the Unreal Project
+Inside you will find an application named "Thesis Project"
 
-Navigate to the folder:
+---
 
-Thesis_Project/Thesis_Project.uproject
+##  Requirements
 
+- **Meta Quest 2 / 3 / Pro**  
+- **Meta Quest Link (USB-C cable or Air Link)**
+- **Windows PC**
+- **Meta Quest Link App installed**
 
-Open the project in Unreal Engine.
+You **do NOT** need Unreal Engine or Git LFS to run the experiment.
 
-Enable plugins when prompted:
+---
 
-Convai
+##  How to Run the Experiment
 
-VR Template / VR Expansion
+### 1. Connect your Meta Quest to your PC
+- Open the **Meta Quest Link** app.  
+- Plug in your headset via USB-C or enable **Air Link**.  
+- Accept the “Enable Link Mode” prompt inside the headset.
 
-MetaHumans
+---
+
+### 2. Launch the Experience
+1. On your PC, open the folder you extracted from OneDrive.  
+2. Double-click the application file
+3. Put on your headset — you should automatically be inside the VR environment.
+
+---
+
+##  How to Interact With the AI Character
+
+### **Enable Push-to-Talk (A button)**
+
+Your character speaks using a push-to-talk system:
+
+- **Hold the A button** on the **right-hand controller** to talk.  
+- **Release the A button** when you finish speaking.  
+- The AI NPC will reply after a short moment.
+
+### Tips for best experience
+
+- Sit down during the experiment (recommended).  
+- Speak clearly and at a normal pace.  
+- Keep the microphone close (don’t cover the controller).  
+- Wait for the NPC to finish speaking before pressing A again.
+
+---
+
+##  Additional Notes
+
+- If audio cuts or lags, ensure the Quest Link connection is stable.  
+- If the environment appears blurry, increase the render resolution in the Oculus PC app.
+- If the sound or mic is not working, make sure to check the sound settings on your PC
+- You can exit the experiment anytime by taking off the headset and closing the app on your PC.
+
+---
+
+## 🛠 For Developers (Optional)
+
+If you are a developer who wants the project files:
+
+1. Clone the repository  
+2. Install **Git LFS**  
+3. Enable plugins such as **Convai** and **MetaHumans** in Unreal Engine 5.6.1  
+
+These steps are **not required** for participants.
+
+---
 
 ---
 
