@@ -41,12 +41,20 @@ Saved/
 *.VC.db
 *.VC.opendb
 
+<<<<<<< HEAD
 # Packaged builds (this is the big 3GB stuff)
+=======
+# Packaged builds
+>>>>>>> bcad691a30b0354b5fe93844bd0fda0e30ae1918
 WindowsNoEditor/
 LinuxNoEditor/
 Android_ASTC/
 Android_ETC2/
 Android_DXT/
+<<<<<<< HEAD
+=======
+Saved/StagedBuilds/
+>>>>>>> bcad691a30b0354b5fe93844bd0fda0e30ae1918
 Builds/
 Packaged/
 
