@@ -26,6 +26,8 @@ Secondly, according to the image on the previous progress journal and the explan
 
 Finally, the only thing left was testing. However, this step was fulfilled throughout the making of this project, as it had been tested multiple times already. The final testing session was there to simply check and tune any final details and refine the prompts where necessary. The person who helped me the most with this step was my partner, as I could not simply send my project to other people, since it runs on my computer and has to be manipulated by me.
 
+[![Watch on YouTube](https://img.youtube.com/vi/R0RKuKnlVbM/0.jpg)](https://youtu.be/R0RKuKnlVbM)
+
 [![▶️ Click to Watch](https://img.shields.io/badge/Play-Video-red?logo=youtube&style=for-the-badge)](https://youtu.be/R0RKuKnlVbM)
 
 ### User presentation script (English and French)
