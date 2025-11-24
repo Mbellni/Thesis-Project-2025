@@ -121,9 +121,11 @@ These steps are **not required** for participants.
 
 ---
 
-## Demonstrations
+## Demonstration
 
-Visuals and demo videos will be added later in the project timeline.
+[![Watch on YouTube](https://img.youtube.com/vi/EGqzr82-51M/0.jpg)](https://youtu.be/EGqzr82-51M)
+
+[![▶️ Click to Watch](https://img.shields.io/badge/Play-Video-red?logo=youtube&style=for-the-badge)](https://youtu.be/EGqzr82-51M)
 
 ---
 
